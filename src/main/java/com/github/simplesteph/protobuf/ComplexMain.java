@@ -1,9 +1,9 @@
 package com.github.simplesteph.protobuf;
 
-import example.complex.Complex;
-import example.complex.Complex.*;
-
 import java.util.Arrays;
+
+import example.complex.Complex.ComplexMessage;
+import example.complex.Complex.DummyMessage;
 
 public class ComplexMain {
 

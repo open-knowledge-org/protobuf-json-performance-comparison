@@ -1,12 +1,12 @@
 package com.github.simplesteph.protobuf;
 
-import example.simple.Simple.SimpleMessage;
-
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.Arrays;
+
+import example.simple.Simple.SimpleMessage;
 
 public class SimpleMain {
 

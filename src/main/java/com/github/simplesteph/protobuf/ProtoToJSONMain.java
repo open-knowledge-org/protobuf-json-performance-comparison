@@ -1,10 +1,11 @@
 package com.github.simplesteph.protobuf;
 
+import java.util.Arrays;
+
 import com.google.protobuf.InvalidProtocolBufferException;
 import com.google.protobuf.util.JsonFormat;
-import example.simple.Simple;
 
-import java.util.Arrays;
+import example.simple.Simple;
 
 public class ProtoToJSONMain {
 
